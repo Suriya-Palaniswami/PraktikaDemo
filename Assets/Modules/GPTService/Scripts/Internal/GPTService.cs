@@ -18,7 +18,7 @@ namespace Modules.GPTService.Internal
 {
     public class GPTService : MonoInstaller, IGPTService
     {
-        //api key =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
+        
 
         // IGPTService events
         public UnityEvent OnAudioRecordingStarted { get; } = new();
